@@ -10,6 +10,9 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @SpringBootApplication
 @ServletComponentScan
 @EnableTransactionManagement
+/**
+ * 加个注释
+ */
 public class ReggieApplication {
     public static void main(String[] args) {
         SpringApplication.run(ReggieApplication.class,args);
