@@ -11,7 +11,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @ServletComponentScan
 @EnableTransactionManagement
 /**
- * 加个注释
+ * 加个注释1
  */
 public class ReggieApplication {
     public static void main(String[] args) {
